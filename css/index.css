@@ -1,0 +1,14 @@
+body{
+	margin:0;
+	background: url(../img/111.jpg);
+}
+#canvas{
+	display: block;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-300px;
+	margin-top:-300px;
+	box-shadow:0 0 1px black;
+	background: rgba(98,65,24,0.3);
+}
